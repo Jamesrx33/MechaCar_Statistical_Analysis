@@ -15,9 +15,18 @@
 * With a multiple R-Squared value of .71, this model has a strong Pearson's correlation and predicts the MechaCar Prototype's MPG effectively
 
 ---
-## **<p align="center">Results - Retirement Age Employees by Title</p>**
+## Summary Statistics on Suspension Coils
 ---
 
+<p align="center">
+<img src="https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/blob/main/Resources/Images/PSI_Summary_Stats.png?raw=true">
+</p>
+
+* The total summary of PSI data falls within the acceptable limits of variance
+  > 62.3 is less than the maximum allowed variance of 100
+* Lots 1 and 2 have very low variance with consistent Means and Medians
+* Lot 3 has a deviating Mean and Median and its level of variance and fails to meet design specifications
+  > A variance of ~170 exceeds the maximum of 100
 
 ---
 ## Summary
