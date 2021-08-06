@@ -29,6 +29,37 @@
   > A variance of ~170 exceeds the maximum of 100
 
 ---
+## T-Tests on Suspension Coils
+---
+
+**Total Results**
+
+<p align="center">
+<img src="https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/blob/main/Resources/Images/Total_t-test.png?raw=true">
+</p>
+
+**Lot 1**
+
+<p align="center">
+<img src="https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/blob/main/Resources/Images/Lot1_t-test.png?raw=true">
+</p>
+
+**Lot 2**
+
+<p align="center">
+<img src="https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/blob/main/Resources/Images/Lot2_t-test.png?raw=true">
+</p>
+
+**Lot 3**
+
+<p align="center">
+<img src="https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/blob/main/Resources/Images/Lot3_t-test.png?raw=true">
+</p>
+
+* Taken as a whole, there is no statistical difference between the presumed population mean of 1500PSI and the observed data
+* However, considering each lot individually, there is a statistical difference between the presumed and observed PSI Mean from Lot 3 -- its p-value of .04 is under the signifcance level of .05
+
+---
 ## Summary
 ---
 
