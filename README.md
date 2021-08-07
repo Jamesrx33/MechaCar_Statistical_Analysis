@@ -64,6 +64,7 @@
 ---
 
 **City MPG One Sample T-Test**
+
 In order to compare how the MechaCar performs vs other cars of the same class, we propose a One Sample T-Test given the following design:
 
 1. We have a dataset of at least 500 cars from 20 or more different manufacturers
