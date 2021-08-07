@@ -26,7 +26,7 @@ t.test(Suspension_df$PSI, mu=1500) #compare means of total samples
 
 t.test(subset(Suspension_df, Manufacturing_Lot=='Lot1')$PSI, mu=1500) #compare mean of Lot 1
 
-t.test(subset(Suspension_df, Manufacturing_Lot=='Lot2')$PSI, mu=1500) #compare mean of Lot 1
+t.test(subset(Suspension_df, Manufacturing_Lot=='Lot2')$PSI, mu=1500) #compare mean of Lot 2
 
-t.test(subset(Suspension_df, Manufacturing_Lot=='Lot3')$PSI, mu=1500) #compare mean of Lot 1
+t.test(subset(Suspension_df, Manufacturing_Lot=='Lot3')$PSI, mu=1500) #compare mean of Lot 3
 
