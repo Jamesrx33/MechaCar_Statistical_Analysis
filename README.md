@@ -60,10 +60,24 @@
 * However, considering each lot individually, there is a statistical difference between the presumed and observed PSI Mean from Lot 3 -- its p-value of .04 is under the signifcance level of .05
 
 ---
-## Summary
+## Study Design: MechaCar vs Competition
 ---
 
+**City MPG One Sample T-Test**
+In order to compare how the MechaCar performs vs other cars of the same class, we propose a One Sample T-Test given the following design:
 
+1. We have a dataset of at least 500 cars from 20 or more different manufacturers
+   * Each car in the dataset must be of the same "class" of car
+     > Ex: "Sedan", "Truck", "SUV"...etc
+   * The Mean City MPG is recorded daily for each car over 30 days
+2. MechaCar data will be extracted as a sample and the Mean of the 30 days of City MPG recording will be tested against the population mean
+3. Our Hypothesis:
+   * **Null:** The mean City MPG of the MechaCar over 30 days is not different than the population mean
+   * **Alternative:** The Mean City MPG of the MechaCar over 30 days is *greater* than the population mean
+4. A right-tailed One Sample T-Test will be used to test this hypothesis
+   * We chose this test because this is one sample taken from a population
+   * The test is right-tailed because we are testing to see if mean MechaCar performance is more than 3 SD greater than the population mean
+   * Rejecting the Null Hypothesis would show **MechaCar City MPG performance exceeds that of its competition**
 
 ---
 
