@@ -81,4 +81,4 @@ In order to compare how the MechaCar performs vs other cars of the same class, w
 
 ---
 
-## Reference Documentation - [Source Code Repository](https://github.com/Jamesrx33/Pewlett-Hackard-Analysis), [Download .zip file](https://github.com/Jamesrx33/Pewlett-Hackard-Analysis/archive/refs/heads/main.zip)
+## Reference Documentation - [Source Code Repository](https://github.com/Jamesrx33/MechaCar_Statistical_Analysis), [Download .zip file](https://github.com/Jamesrx33/MechaCar_Statistical_Analysis/archive/refs/heads/main.zip)
